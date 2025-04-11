@@ -15,8 +15,8 @@ ML Model Integration
 **Project Structure**
 
 STREAMLIT_APP/
-  │
-  ├── models/
+│
+├── models/
 │   ├── duration_model.pkl
 │   ├── worker_model.pkl
 │   ├── train_duration_model.py
