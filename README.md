@@ -48,14 +48,6 @@ Scikit-learn
 Pandas
 Pickle
 
-**Team Name**
-Murphy
-
-**Team Members**
-
-Shreya Jain	@SHREYAJAIN14
-Kashish Tiwari
-Nitin Kumawat
 
 **License**
 This project is for educational purposes only.
